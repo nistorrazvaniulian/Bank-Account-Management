@@ -1,0 +1,6 @@
+Jane Smith,555203947,Savings,750
+John Doe,332907561,Checking,1200
+Maria Garcia,789405623,Savings,850
+Alex Johnson,221804936,Checking,2000
+David Lee,987654321,Savings,620
+Emily Brown,123456789,Checking,1500
