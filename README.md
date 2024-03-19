@@ -46,6 +46,7 @@ To run this application, you need Java installed on your system.
 A sample .txt file (`bank.txt`) might look like this:
 
 John Doe,123456789,Savings,1000
+
 Jane Smith,987654321,Checking,1500
 
 ## Contributing
